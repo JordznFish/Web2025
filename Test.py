@@ -10,3 +10,5 @@ message_main = "Resolving conflict"
 
 print("Another message in main")
 
+print("*"*50)
+print("Editing in main")
