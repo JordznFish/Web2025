@@ -12,3 +12,6 @@ print("Another message in main")
 
 print("*"*50)
 print("Editing in main")
+
+print("Conflicts? Editing in branch")
+
