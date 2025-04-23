@@ -10,3 +10,4 @@ message_main = "Resolving conflict"
 
 print("Another message in main")
 
+print("Conflicts? Editing in branch")
